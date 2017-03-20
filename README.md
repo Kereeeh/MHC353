@@ -1,4 +1,7 @@
-# hello-world
-This is me trying to learn github.
+MHC 353/ Seminar 4: Shaping the Future of New York City
+Spring 2017
 
-I am Keri Mallari and I am trying to learn how Github works. 
+Keri Mallari
+Prof. Katherine St. John
+
+Neighborhood: Elmhurst, New York
