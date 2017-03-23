@@ -1,7 +1,6 @@
 <h1> Elmhurst </h1>
 <p> This page is about the neighborhood Elmhurst in Queens, New York </p>
 
-The outline of the neighborhood:  
 [Outline] (../blob/master/outlineElmhurst.geojson)<br />
 [Demographics] (../blob/master/demographicsElmhurst.pdf)<br />
 [Top Ten Parking Tickets] (../blob/master/ticketsElmhurst.pdf)<br />
