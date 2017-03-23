@@ -1,8 +1,11 @@
 <h1> Elmhurst </h1>
 <p> This page is about the neighborhood Elmhurst in Queens, New York </p>
 
-The outline of the neighborhood: [a link] (../blob/master/demographicsElmhurst.pdf) <br />
-The basic demographics and statistics:<br /> demographicsElmhurst.pdf <br />
-The top ten for parking tickets: <br />ticketsElmhurst.pdf and ticketsElmhurst.py <br />
-The biggest 311 complaints: <br />complaintsElmhurst.pdf and complaintsElmhurst.py <br />
-The map of where 311 complaints: <br />mapComplaintElmhurst.png 
+The outline of the neighborhood:  
+[Outline] (../blob/master/outlineElmhurst.geojson)<br />
+[Demographics] (../blob/master/demographicsElmhurst.pdf)<br />
+[Top Ten Parking Tickets] (../blob/master/ticketsElmhurst.pdf)<br />
+[Program for Top Ten Parking Tickets] (../blob/master/ticketsElmhurst.py)<br />
+[Biggest 311 Complaints] (../blob/master/complaintsElmhurst.pdf)<br />
+[Program for Biggest 311 Complaints] (../blob/master/complaintsElmhurst.py)<br />
+[First 500 311 Complaints] [(../blob/master/mapComplaintElmhurst.png)<br />
