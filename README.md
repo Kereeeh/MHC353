@@ -7,4 +7,4 @@
 [Program for Top Ten Parking Tickets](https://github.com/Kereeeh/MHC353//blob/master/ticketsElmhurst.py)<br />
 [Biggest 311 Complaints](https://github.com/Kereeeh/MHC353//blob/master/complaintsElmhurst.pdf)<br />
 [Program for Biggest 311 Complaints](https://github.com/Kereeeh/MHC353//blob/master/complaintsElmhurst.py)<br />
-[First 500 311 Complaints](https://github.com/Kereeeh/MHC353//blob/master/mapComplaintElmhurst.png)<br />
+![First 500 311 Complaints](https://github.com/Kereeeh/MHC353//blob/master/mapComplaintElmhurst.png)<br />
