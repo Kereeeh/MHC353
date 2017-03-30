@@ -2,8 +2,8 @@
 <p> This page is about the neighborhood Elmhurst in Queens, New York </p>
 
 [Outline](https://github.com/Kereeeh/MHC353//blob/master/outlineElmhurst.geojson)<br /><br />
-[Demographics](https://github.com/Kereeeh/MHC353//blob/master/demographicsElmhurst.pdf)<br />
-Complaint<br />
+[Demographics](https://github.com/Kereeeh/MHC353//blob/master/demographicsElmhurst.pdf)<br /><br />
+[Complaint](https://github.com/Kereeeh/MHC353/blob/master/complaintsElmhurst.py)<br />
 Noise - Residential has 10439 complaints. <br/>
 Blocked Driveway has 10064 complaints. <br/>
 Heat/Hot Water has 6423 complaints. <br/>
@@ -27,6 +27,5 @@ Plate 17309JH has 145 tickets. <br />
 Plate 36987TR has 138 tickets. <br />
 Plate 59887JR has 126 tickets. <br />
 Plate 18435JU has 105 tickets. <br /><br />
-[Biggest 311 Complaints](https://github.com/Kereeeh/MHC353//blob/master/complaintsElmhurst.py)<br /><br />
-First 500 311 Complaints
+[Biggest 311 Complaints](https://github.com/Kereeeh/MHC353//blob/master/complaintsElmhurst.py)<br />
 ![First 500 311 Complaints](https://raw.githubusercontent.com/Kereeeh/MHC353/master/mapComplaintElmhurst.png)<br />
